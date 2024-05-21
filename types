@@ -1,0 +1,9 @@
+export interface Aluno { // Cada aluno é desse tipo
+    nome: string;
+}
+export interface Fileira { // Cada fileira tem um nome/número na sala e tem os alunos que estão nela
+    fileira1: string;
+    fileira2: string;
+    filiera3: string;
+    // Alunos na fileira
+}
